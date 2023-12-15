@@ -61,6 +61,8 @@
 ||jfmpafthtwuo.com^
 ||sytqxychwk.xyz^
 ||zipheeda.xyz^
+||sessions.bugsnag.com^
+||ads-api.tiktok.com^
 ||pqulqqpmx.com^
 ||encumbranceunderlineheadmaster.com^
 ||cleaningmaturegallop.com^
@@ -34731,7 +34733,6 @@ vkcdnservice.appspot.com^
 ! ||raygun.io^
 ! ||rum.cronitor.io^$third-party
 ! ||sentry.vieon.vn^
-! ||sessions.bugsnag.com^
 ! ||settings.crashlytics.com^
 ! ||sny.monosnap.com^
 ! ||lr-ingest.com^
