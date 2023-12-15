@@ -61,6 +61,8 @@
 ||jfmpafthtwuo.com^
 ||sytqxychwk.xyz^
 ||zipheeda.xyz^
+||sessions.bugsnag.com^
+||ads-api.tiktok.com^
 ||pqulqqpmx.com^
 ||encumbranceunderlineheadmaster.com^
 ||cleaningmaturegallop.com^
@@ -34731,7 +34733,6 @@ vkcdnservice.appspot.com^
 ! ||raygun.io^
 ! ||rum.cronitor.io^$third-party
 ! ||sentry.vieon.vn^
-! ||sessions.bugsnag.com^
 ! ||settings.crashlytics.com^
 ! ||sny.monosnap.com^
 ! ||lr-ingest.com^
@@ -34915,7 +34916,19 @@ vkcdnservice.appspot.com^
 ||cra.hum.works^
 ||log.trackingio.com^
 ||region1.analytics.google.com^
+||analytics.google.com^
 ||google-analytics.com^
+||click.googleanalytics.com^
+||browser.sentry-cdn.com^
+||ads-api.twitter.com^
+||app.getsentry.com^
+||ads.pinterest.com^
+||widgets.pinterest.com^
+||business-api.tiktok.com^
+||log.fc.yahoo.com^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
+||gemini.yahoo.com^
 ||iad.anm.co.uk^
 ||cdn.pranmcpkx.com^
 ||firstblackphase.com^
