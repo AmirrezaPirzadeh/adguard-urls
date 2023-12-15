@@ -58656,6 +58656,8 @@ analytics-*.aasaam.com
 ||novunu.football-plyus.net^
 !
 
+
+
 !
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
